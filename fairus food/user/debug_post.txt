@@ -1,0 +1,13 @@
+Array
+(
+    [items_json] => [{"id_produk":"22","nama":"\"Kentang Goreng\"","jumlah":"1"},{"id_produk":"21","nama":"\"Dada\"","jumlah":"2"},{"id_produk":"18","nama":"\"Paha Atas\"","jumlah":"2"}]
+    [keranjang_ids] => Array
+        (
+            [0] => 114
+            [1] => 115
+            [2] => 116
+        )
+
+    [metode_pembayaran] => COD
+    [id_user_voucher] => 
+)
